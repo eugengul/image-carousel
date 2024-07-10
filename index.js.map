@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","mappings":"mBAGAA,QAAQC,IAAI,mB","sources":["webpack://js-repo-template/./src/index.js"],"sourcesContent":["import 'modern-normalize';\nimport './css/styles.css';\n\nconsole.log('JS repo template');"],"names":["console","log"],"sourceRoot":""}
