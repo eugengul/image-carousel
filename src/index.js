@@ -1,4 +1,6 @@
-import 'modern-normalize';
-import './css/styles.css';
+import "modern-normalize";
+import "./css/styles.css";
+import Carousel from "./carousel/index.js"
 
-console.log('JS repo template');
+new Carousel(document.querySelector("#carousel1"));
+new Carousel(document.querySelector("#carousel2"), 3000);
